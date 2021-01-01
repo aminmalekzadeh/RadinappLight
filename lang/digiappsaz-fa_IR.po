@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: digiappsaz\n"
+"Language: fa\n"
+
+#: 
+#, fuzzy
+msgid "ID"
+msgstr "آیدی"
+
+#: 
+msgid "save"
+msgstr "ذخیره"
+
+#: 
+msgid "list product"
+msgstr "لیست محصولات"
+
+#: 
+msgid "title"
+msgstr "عنوان"
+
+#: 
+msgid "search category"
+msgstr "جستجوی دسته بندی..."
+
+#: 
+msgid "search product"
+msgstr "جستجوی دسته بندی"
+
+#: 
+msgid "Choose Click Content"
+msgstr "انتخاب کلیک محتوا"
+
+#: 
+msgid "image"
+msgstr "عکس"
+
+#: 
+msgid "Manage Home Page"
+msgstr "مدیریت صفحه اصلی"
+
+#: 
+msgid "add list products"
+msgstr "افزودن لیستی از محصولات"
+
+#: 
+msgid "add image"
+msgstr "افزودن عکس"
+
+#: 
+msgid "download app"
+msgstr "دانلود اپلیکیشن"
+
+#: 
+msgid "application name"
+msgstr "نام اپلیکیشن"
+
+#: 
+msgid "application icon"
+msgstr "آیکون اپلیکیشن"
+
+#: 
+msgid "main color application"
+msgstr "رنگ اصلی اپلیکیشن"
+
+#: 
+msgid "secondary color application"
+msgstr "رنگ ثانویه اپلیکیشن\t"
+
+#: 
+msgid "splash logo in activity splash"
+msgstr "لوگو اپلیکیشن(صفحه اسپلش)\t"
+
+#: 
+msgid "enable discount code(reffral code)"
+msgstr "فعال سازی کدتخفیف اختصاصی اپلیکیشن(معرفی اپلیکیشن به کاربران)\t"
+
+#: 
+msgid "days post product"
+msgstr "روزهای ارسال کالا\t\n"
+""
+
+#: 
+msgid "Delivery time interval (in hours)"
+msgstr "فاصله بازه زمانی ارسال کالا(به ساعت)\t"
+
+#: 
+msgid "Maximum shipping capacity in each time period"
+msgstr "حداکثر ظرفیت ارسال کالا در هر بازه زمانی\t"
+
+#: 
+#, fuzzy
+msgid "Start shipping hours"
+msgstr "شروع ساعات ارسال کالا\t"
+
+#: 
+msgid "End of delivery hours"
+msgstr "پایان ساعات ارسال کالا\t"
+
+#: 
+msgid "add days"
+msgstr "افزودن روزها"
+
+#: 
+msgid "add message"
+msgstr "ارسال اطلاعیه"
+
+#: 
+msgid "send to"
+msgstr "ارسال به کاربر\t"
+
+#: 
+msgid "send to all"
+msgstr "ارسال به همه"
+
+#: 
+msgid "row"
+msgstr "ردیف"
+
+#: 
+msgid "action"
+msgstr "عملیات"
+
+#: 
+msgid "slider"
+msgstr "مدیریت اسلایدر"
+
+#: 
+msgid "image slider"
+msgstr "عکس اسلایدر\t"
+
+#: 
+msgid "slider title"
+msgstr "عنوان اسلایدر\t"
+
+#: 
+msgid "digiappsaz"
+msgstr "دیجی اپساز"
+
+#: 
+msgid "slider app"
+msgstr "اسلایدر اپلیکیشن"
+
+#: 
+msgid "home page app"
+msgstr "صفحه اصلی اپلیکیشن"
+
+#: 
+msgid "setting"
+msgstr "تنظیمات"
+
+#: 
+msgid "Choose slider image"
+msgstr "انتخاب عکس اسلایدر"
+
+#: 
+msgid "list sliders"
+msgstr "لیست اسلایدرها"
+
+#: 
+msgid "Choose image"
+msgstr "انتخاب عکس"
+
+#: 
+msgid "open in web"
+msgstr "باز شدن در وب"
+
+#: 
+msgid "product"
+msgstr "محصول"
+
+#: 
+msgid "category"
+msgstr "دسته بندی"
+
+#: 
+msgid "search products"
+msgstr "جستجوی محصولات"
+
+#: 
+msgid "Choose Category"
+msgstr "انتخاب دسته بندی"
+
+#: 
+msgid "list view"
+msgstr "نمایش به صورت لیستی"
+
+#: 
+msgid "Square view"
+msgstr "نمایش به صورت مربعی"
+
+#: 
+msgid "list products from category"
+msgstr "لیست محصولات از دسته بندی"
+
+#: 
+msgid "list product custom"
+msgstr "لیست محصولات سفارشی"
+
+#: 
+msgid "content type"
+msgstr "نوع محتوا"
+
+#: 
+msgid "Content Click"
+msgstr "کلیک محتوا"
+
+#: 
+msgid "Content"
+msgstr "محتوا"
+
+#: 
+msgid "message"
+msgstr "پیام"
+
+#: 
+msgid "send"
+msgstr "ارسال"
+
+#: 
+msgid "user"
+msgstr "کاربر"
+
+#: 
+msgid "date"
+msgstr "تاریخ"
+
+#: 
+msgid "download"
+msgstr "دانلود"
+
+#: 
+msgid "open link when click"
+msgstr "پیوند در زمان کلیک تصویر"
+
+#: 
+msgid "drag & drop"
+msgstr "جابجایی"
+
+#: 
+msgid "remove"
+msgstr "حذف"
+
+#: 
+msgid "choose background products list"
+msgstr "انتخاب عکس پس زمینه محصولات"
+
+#: 
+msgid "select image position one"
+msgstr "انتخاب عکس پوزیشن اول لیست محصول"
+
+#: 
+msgid "Choose view products"
+msgstr "انتخاب شکل محصولات در صفحه اصلی"
+
+#: 
+msgid "To activating your digiappsaz please insert you license key"
+msgstr "برای فعال کردن افزونه دیجی اپساز لطفا لایسنس محصول را ثبت کنید"
+
+#: 
+msgid "Register Now"
+msgstr "ثبت لایسنس"
+
+#: 
+msgid "Please activate plugin with your license key to all features work."
+msgstr "لطفا برای استفاده از تمامی امکانات افزونه لایسنس خود را ثبت نمایید"
+
+#: 
+msgid "Register version"
+msgstr "ثبت لایسنس"
+
+#: 
+msgid "Please insert your license code\n"
+""
+msgstr "لطفا کد لایسنس خود را وارد کنید"
+
+#: 
+msgid "License key"
+msgstr "کد لایسنس را وارد کنید"
+

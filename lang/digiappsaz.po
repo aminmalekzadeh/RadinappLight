@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: digiappsaz\n"
+"Language: en\n"
+
+#: 
+msgid "ID"
+msgstr "ID"
+
+#: 
+msgid "save"
+msgstr "save"
+
+#: 
+msgid "list product"
+msgstr "Products List"
+
+#: 
+msgid "title"
+msgstr "Title"
+
+#: 
+msgid "search category"
+msgstr "Search for Category..."
+
+#: 
+msgid "search product"
+msgstr "Search Product"
+
+#: 
+msgid "Choose Click Content"
+msgstr "Choose Click Content"
+
+#: 
+msgid "image"
+msgstr "Image"
+
+#: 
+msgid "Manage Home Page"
+msgstr "Manage Home Page "
+
+#: 
+msgid "add list products"
+msgstr "add list products"
+
+#: 
+msgid "add image"
+msgstr "add image"
+
+#: 
+msgid "download app"
+msgstr "download app"
+
+#: 
+msgid "application name"
+msgstr "application name"
+
+#: 
+msgid "application icon"
+msgstr "application icon"
+
+#: 
+msgid "main color application"
+msgstr "main color application"
+
+#: 
+msgid "secondary color application"
+msgstr "secondary color application"
+
+#: 
+msgid "splash logo in activity splash"
+msgstr "splash logo in activity splash"
+
+#: 
+msgid "enable discount code(reffral code)"
+msgstr "enable discount code(reffral code)"
+
+#: 
+msgid "days post product"
+msgstr "days post product"
+
+#: 
+msgid "Delivery time interval (in hours)"
+msgstr "Delivery time interval (in hours)"
+
+#: 
+msgid "Maximum shipping capacity in each time period"
+msgstr "Maximum shipping capacity in each time period"
+
+#: 
+#, fuzzy
+msgid "Start shipping hours"
+msgstr "Start shipping hours"
+
+#: 
+msgid "End of delivery hours"
+msgstr "End of delivery hours"
+
+#: 
+msgid "add days"
+msgstr "add days"
+
+#: 
+msgid "add message"
+msgstr "send message"
+
+#: 
+msgid "send to"
+msgstr "send to"
+
+#: 
+msgid "send to all"
+msgstr "send to all"
+
+#: 
+msgid "row"
+msgstr "row"
+
+#: 
+msgid "action"
+msgstr "action"
+
+#: 
+msgid "slider"
+msgstr "slider manager"
+
+#: 
+msgid "image slider"
+msgstr "slider image"
+
+#: 
+msgid "slider title"
+msgstr "slider title"
+
+#: 
+msgid "digiappsaz"
+msgstr "digiappsaz"
+
+#: 
+msgid "slider app"
+msgstr "slider application"
+
+#: 
+msgid "home page app"
+msgstr "home page application"
+
+#: 
+msgid "setting"
+msgstr "setting"
+
+#: 
+msgid "Choose slider image"
+msgstr "Choose slider image"
+
+#: 
+msgid "list sliders"
+msgstr "List Sliders"
+
+#: 
+msgid "Choose image"
+msgstr "Choose Image"
+
+#: 
+msgid "open in web"
+msgstr "open in web"
+
+#: 
+msgid "product"
+msgstr "Product"
+
+#: 
+msgid "category"
+msgstr "Category"
+
+#: 
+msgid "search products"
+msgstr "search products"
+
+#: 
+msgid "Choose Category"
+msgstr "Choose Category"
+
+#: 
+msgid "list view"
+msgstr "List View"
+
+#: 
+msgid "Square view"
+msgstr "Square view"
+
+#: 
+msgid "list products from category"
+msgstr "List Products From Category"
+
+#: 
+msgid "list product custom"
+msgstr "List Product Custom"
+
+#: 
+msgid "content type"
+msgstr "Content Type"
+
+#: 
+msgid "Content Click"
+msgstr "Content Click"
+
+#: 
+msgid "Content"
+msgstr "Content"
+
+#: 
+msgid "message"
+msgstr "Message"
+
+#: 
+msgid "send"
+msgstr "Send"
+
+#: 
+msgid "user"
+msgstr "User"
+
+#: 
+msgid "date"
+msgstr "Date"
+
+#: 
+msgid "download"
+msgstr "Download"
+
+#: 
+msgid "open link when click"
+msgstr "open link when click image"
+
+#: 
+msgid "drag & drop"
+msgstr "drag & drop"
+
+#: 
+msgid "remove"
+msgstr "remove"
+
+#: 
+msgid "choose background products list"
+msgstr "Choose Background Products list"
+
+#: 
+msgid "select image position one"
+msgstr "Select Image position one"
+
+#: 
+msgid "Choose view products"
+msgstr "Choose View Products"
+
