@@ -5,7 +5,7 @@ namespace digiappsaz\API;
 
 
 use function array_chunk;
-use Auth\Config_Radinapp;
+use Radinapp_config\Config_Radinapp;
 use Automattic\WooCommerce\Blocks\StoreApi\Utilities\Pagination;
 use function ceil;
 use function count;

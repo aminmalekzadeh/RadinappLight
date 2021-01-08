@@ -1,19 +1,4 @@
-/**
- * jscolor - JavaScript Color Picker
- *
- * @link    http://jscolor.com
- * @license For open source use: GPLv3
- *          For commercial use: JSColor Commercial License
- * @author  Jan Odvarko
- * @version 2.1.1
- *
- * See usage examples at http://jscolor.com/examples/
- */
-
-
 "use strict";
-
-
 if (!window.jscolor) {
 
 window.jscolor = (function () { // BEGIN window.jscolor
@@ -1981,8 +1966,8 @@ jsc.register();
 return jsc.jscolor;
 
 
-})(); // END window.jscolor
+})();
 
-window.JSColor = window.jscolor; // 'JSColor' is an alias to 'jscolor'
+window.JSColor = window.jscolor;
 
-} // endif
+}

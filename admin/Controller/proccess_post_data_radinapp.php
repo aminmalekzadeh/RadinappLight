@@ -60,7 +60,7 @@ add_action('admin_post_delete_slider', 'removeSlider');
 add_action('admin_post_nopriv_delete_slider', 'removeSlider');
 function removeSlider()
 {
-    wp_delete_post($_POST['delete_slider'], true);
+    wp_delete_post(sanitize_text_field($_POST['delete_slider']), true);
     wp_redirect(admin_url('admin.php?page=appsaz_slider'));
 }
 
@@ -71,9 +71,9 @@ function add_content_home()
     $content = null;
 
     if (isset($_POST['content'])) {
-        $content = json_encode(($_POST['content']));
+        $content = json_encode(sanitize_text_field($_POST['content']));
     } elseif (isset($_POST['content_products'])) {
-        $content = json_encode($_POST['content_products']);
+        $content = json_encode(sanitize_text_field($_POST['content_products']));
     } else {
         echo "null";
     }
@@ -88,7 +88,7 @@ function add_content_home()
             'image_url' => str_replace(get_home_url(), '', sanitize_text_field($_POST['image_url'])),
             'content_type' => sanitize_text_field($_POST['content_type']),
             'content' => $content,
-            'image_small' => ($_POST['post_type'] == 'image' or $_POST['recycler_custom_product']) ? null : str_replace(get_home_url(), '', $_POST['image_small']),
+            'image_small' => (sanitize_text_field($_POST['post_type']) == 'image' || sanitize_text_field($_POST['recycler_custom_product'])) ? null : str_replace(get_home_url(), '', sanitize_text_field($_POST['image_small'])),
         )
     );
     wp_redirect(admin_url('admin.php?page=home_page_app'));
@@ -124,7 +124,7 @@ add_action('wp_ajax_order_content', 'updateDataHome');
 function deleteDataHome()
 {
     global $wpdb;
-    $item_id = $_POST['id_item_home'];
+    $item_id = sanitize_text_field($_POST['id_item_home']);
     $tablename = $wpdb->prefix . 'digiappsaz_home_page';
 
     $wpdb->delete($tablename, ['id' => $item_id]);

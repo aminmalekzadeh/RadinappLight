@@ -4,7 +4,7 @@
 namespace digiappsaz\API;
 
 
-use Auth\Config_Radinapp;
+use Radinapp_config\Config_Radinapp;
 use DateTime;
 use function get_home_url;
 use function json_decode;

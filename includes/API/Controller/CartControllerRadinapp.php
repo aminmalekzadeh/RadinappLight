@@ -5,7 +5,7 @@ namespace digiappsaz\API;
 
 
 use function add_action;
-use Auth\Config_Radinapp;
+use Radinapp_config\Config_Radinapp;
 use function count;
 use Exception;
 use function intval;

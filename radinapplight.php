@@ -3,12 +3,12 @@
   Plugin Name: RadinApp
   Plugin URI: https://digiappsaz.com
   Description: Create Woocommerce App in 5 minutes with radinapp.
-  Version: 1.0
+  Version: 1.0.1
   Author: digiappsaz
   Text Domain: digiappsaz
   Domain Path: /lang/
   WC requires at least: 3.3
-  WC tested up to: 4.5.2
+  WC tested up to: 4.8.0
  */
 
 define('APP_Radinapp_DIR', plugin_dir_url(__FILE__));

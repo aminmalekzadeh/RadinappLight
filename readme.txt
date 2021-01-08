@@ -1,10 +1,11 @@
 == Radin app ===
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link: https://digiappsaz.com/
-Tags: comments, Application android
-Requires at least: 4.7
-Tested up to: 5.4
-Stable tag: 4.3
+Tags: comments, Application android,application woocommerce
+Requires at least: 5.1
+Tested up to: 5.6
+Stable tag: 5.6
+Version: 1.0.1
 Requires PHP: 7.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html

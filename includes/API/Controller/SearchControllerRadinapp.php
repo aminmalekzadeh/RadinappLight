@@ -4,7 +4,7 @@
 namespace digiappsaz\API;
 
 
-use Auth\Config_Radinapp;
+use Radinapp_config\Config_Radinapp;
 use function register_rest_route;
 use WC_Product_Query;
 use WP_REST_Server;

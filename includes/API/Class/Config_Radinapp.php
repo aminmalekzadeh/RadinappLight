@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Auth;
+namespace Radinapp_config;
 
 
 class Config_Radinapp
