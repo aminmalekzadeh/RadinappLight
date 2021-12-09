@@ -1,6 +1,5 @@
 == Radin app ===
 Contributors: (this should be a list of wordpress.org userid's)
-Donate link: https://digiappsaz.com/
 Tags: comments, Application android,application woocommerce
 Requires at least: 5.1
 Tested up to: 5.6
